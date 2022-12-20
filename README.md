@@ -26,7 +26,9 @@ ___
  > 2. Inventory System
  > 3. Document Tracking System
 
-## Links
+##### Links
+***
+
 [City Government of General Santos](https://eportal.gensantos.gov.ph/)
 
 Contact me here at [pataysaya](https://pataysaya13@gmail.com)
